@@ -1,0 +1,11 @@
+# SoupPlugin Configuration File
+
+# Amount of health points to heal (2 health points = 1 heart)
+# Default: 8.0 (4 hearts)
+heal-amount: 8.0
+
+# Whether to convert mushroom stew to bowl after use
+# true: Convert to bowl (like vanilla behavior)
+# false: Clear the item completely (no bowl left behind)
+# Default: false
+convert-to-bowl: false

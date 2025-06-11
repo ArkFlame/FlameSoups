@@ -1,0 +1,11 @@
+ 
+name: FlameSoups
+version: 1.0.0
+main: com.arkflame.flamesoups.FlameSoups
+api-version: 1.8
+description: A simple plugin that makes mushroom stew heal players when right-clicked
+author: ArkFlame
+website: https://example.com
+
+# Compatible with Bukkit versions 1.8 to 1.21
+softdepend: []
